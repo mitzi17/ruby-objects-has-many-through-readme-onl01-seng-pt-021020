@@ -1,4 +1,4 @@
-class Waiter
+class Waiter :customer
   
   @@all = [ ]
   
