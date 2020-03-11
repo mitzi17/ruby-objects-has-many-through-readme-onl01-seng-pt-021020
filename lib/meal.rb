@@ -1,4 +1,5 @@
-class Meal :customer, :waiter
+class Meal 
+  attr_accessor :customer, :waiter
   
   @@all = [ ]
   
